@@ -1300,6 +1300,13 @@ footer ul.link-list li a {
 footer ul.link-list li a:hover {
 	color: #eee;
 }
+footer .footer-email {
+	display: flex;
+	align-items: center;
+}
+footer .footer-email i {
+	margin-right: 5px;
+}
 
 /* --- Heading style --- */
 
